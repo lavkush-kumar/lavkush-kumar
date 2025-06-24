@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavkush-kumar&show_icons=true&locale=en" alt="lavkush-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=lavkush-kumar" alt="lavkush-kumar" /></p>
 
