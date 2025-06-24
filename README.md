@@ -1,4 +1,4 @@
-![logo](https://github.com/lavkush-kumar/lavkush-kumar/blob/main/banner.jpg)
+![logo](https://github.com/lavkush-kumar/lavkush-kumar/blob/main/gitimage.gif)
 <h1 align="center">Hi 👋, I'm Lavkush Kumar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
